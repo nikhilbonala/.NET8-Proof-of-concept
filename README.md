@@ -10,5 +10,4 @@ This is a proof-of-concept project demonstrating key features and best practices
 **AutoMapper**: Simplifies object-to-object mapping, particularly for converting entities to Data Transfer Objects (DTOs).
 **DTOs**: Provides a clean and secure way to expose data to the API consumers.
 
-Please feel free to reach out if additional files or details are required for this POC.
 
